@@ -9,3 +9,4 @@
 1. [Visualizing DBSCAN Clustering Demo](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
 2. [Visualizing K-Means Clustering Demo](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 3. [CNN Explainer Learn Convolutional Neural Network (CNN) in your browser!](https://poloclub.github.io/cnn-explainer/)
+4. [Machine Learning Visualization WordEmbedding](https://towardsdatascience.com/machine-learning-visualization-fcc39a1e376a)
