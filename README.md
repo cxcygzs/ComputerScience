@@ -11,3 +11,4 @@
 3. [CNN Explainer Learn Convolutional Neural Network (CNN) in your browser!](https://poloclub.github.io/cnn-explainer/)
 4. [Machine Learning Visualization WordEmbedding](https://towardsdatascience.com/machine-learning-visualization-fcc39a1e376a)
 5. [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+6. [Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)
