@@ -13,3 +13,4 @@
 5. [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 6. [Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)
 7. [Large Graph Exploration & Visualization](https://poloclub.github.io/#research-graph)
+8. [Transformer模型的可视化Dodrio：Exploring transformer models in your browser!](https://poloclub.github.io/dodrio/) [视频](https://www.youtube.com/watch?v=qB-T9j7UTgE)
